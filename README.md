@@ -18,9 +18,8 @@ An interactive dashboard analyzing Uber ride data to understand demand patterns,
 - Interactive filters and slicers  
 
 📷 Screenshots:
-- `/screenshots/uber_overview.png`
-- `/screenshots/uber_time_analysis.png`
-- `/screenshots/uber_location.png`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3359a06a-4943-4cf8-a6d5-679a24fd1bee" />
+
 
 ---
 
@@ -35,9 +34,8 @@ A Power BI dashboard analyzing Blinkit (online grocery delivery) data to underst
 - Dynamic filtering and visuals  
 
 📷 Screenshots:
-- `/screenshots/blinkit_overview.png`
-- `/screenshots/blinkit_sales.png`
-- `/screenshots/blinkit_outlets.png`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/de9f478b-b065-4b22-9c18-d2d0f3b9add8" />
+
 
 ---
 
