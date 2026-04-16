@@ -1,72 +1,72 @@
-# 📊 Uber Data Analysis Dashboard (Power BI)
+# 📊 Power BI Portfolio Projects
 
-## 🚀 Overview
-This project presents an interactive Power BI dashboard built to analyze Uber ride data and extract meaningful insights related to ride demand, revenue trends, and user behavior. It helps in understanding patterns and supports data-driven decision-making.
-
----
-
-## 🎯 Objectives
-- Analyze ride trends over time  
-- Identify peak hours and high-demand days  
-- Evaluate revenue performance  
-- Understand trip distribution by location  
+Welcome to my **Power BI Portfolio Repository** 🚀  
+This repository contains multiple real-world data analysis projects built using Power BI. Each project focuses on transforming raw data into meaningful business insights through interactive dashboards.
 
 ---
 
-## 📁 Dataset
-The dataset contains Uber ride details such as:
-- Date & Time of rides  
-- Pickup locations  
-- Number of trips  
-- Fare / revenue data  
+## 📁 Projects Included
+
+### 🚖 1. Uber Data Analysis Dashboard
+An interactive dashboard analyzing Uber ride data to understand demand patterns, revenue trends, and location-based insights.
+
+**Key Highlights:**
+- Ride demand analysis over time  
+- Peak hour identification  
+- Revenue performance tracking  
+- Location-wise trip distribution  
+- Interactive filters and slicers  
+
+📷 Screenshots:
+- `/screenshots/uber_overview.png`
+- `/screenshots/uber_time_analysis.png`
+- `/screenshots/uber_location.png`
 
 ---
 
-## 📊 Dashboard Features
-- 📅 Time-based analysis (daily, weekly, monthly)  
-- ⏰ Peak hour identification  
-- 📍 Location-wise ride distribution  
-- 💰 Revenue insights  
-- 🎛️ Interactive filters and slicers  
+### 🛒 2. Blinkit Sales Analysis Dashboard
+A Power BI dashboard analyzing Blinkit (online grocery delivery) data to understand sales performance, product trends, and outlet performance.
+
+**Key Highlights:**
+- Total sales and revenue analysis  
+- Product category performance  
+- Outlet-wise performance comparison  
+- Customer preference insights  
+- Dynamic filtering and visuals  
+
+📷 Screenshots:
+- `/screenshots/blinkit_overview.png`
+- `/screenshots/blinkit_sales.png`
+- `/screenshots/blinkit_outlets.png`
 
 ---
 
 ## 🛠️ Tools & Technologies
 - Power BI  
 - DAX (Data Analysis Expressions)  
-- Excel / CSV  
+- Power Query  
+- Excel / CSV datasets  
 
 ---
 
-## 📌 Key Insights
-- Ride demand is higher during peak working hours  
-- Certain locations contribute more to total revenue  
-- Weekday and weekend patterns vary significantly  
+## 📊 Skills Demonstrated
+- Data Cleaning & Transformation  
+- Data Modeling  
+- Dashboard Design  
+- KPI Creation  
+- Business Insights Generation  
+- Data Visualization  
+
+---
+
+## 📌 Key Learnings
+- Real-world data analysis using Power BI  
+- Building interactive dashboards  
+- Understanding business metrics and KPIs  
+- Converting raw data into insights  
 
 ---
 
 ## 📷 Dashboard Preview
-(Add dashboard screenshots here)
 
----
-
-## ▶️ How to Use
-1. Download the `.pbix` file  
-2. Open using Power BI Desktop  
-3. Explore the dashboard using filters and visuals  
-
----
-
-## 💡 Future Improvements
-- Integration of real-time data  
-- Advanced analytics and forecasting  
-- Improved dashboard design  
-
----
-
-## 👨‍💻 Author
-Your Name  
-
----
-
-⭐ If you found this project useful, consider giving it a star!
+👉 Add all screenshots inside a folder named:
